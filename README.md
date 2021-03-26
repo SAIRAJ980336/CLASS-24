@@ -1,2 +1,2 @@
-# CLASS-24
-CLASSES AND OBJECTS
+# p5.play-boilerplate
+Boiler plate for p5.play
